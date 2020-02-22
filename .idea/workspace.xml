@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b3a9e6f-ef04-40ea-ba8c-34bda452606b" name="Default Changelist" comment="" />
+    <list default="true" id="3b3a9e6f-ef04-40ea-ba8c-34bda452606b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo1/XMLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo2/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo2/DatabaseLoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo2/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo2/FileLoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo2/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo2/LoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo2/XMLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo2/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo3/GIFPictureReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo3/JPGPictureReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo3/PictureReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/demo3/PictureReaderFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/DatabaseLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/DatabaseLoggerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/FileLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/FileLoggerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/LoggerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/DatabaseLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/factory/demo1/DatabaseLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/DatabaseLoggerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/factory/demo1/DatabaseLoggerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/FileLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/factory/demo1/FileLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/FileLoggerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/factory/demo1/FileLoggerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/factory/demo1/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/LoggerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/factory/demo1/LoggerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/XMLUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/factory/demo1/config.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +45,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y71LCY2HdpxktvKwMstyGHlsuI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,32 +65,21 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/creational/simplefactory/demo1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/creational/factory/demo3" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/creational/factory/demo1" />
+      <recent name="$PROJECT_DIR$/src/creational/simplefactory/demo1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/creational/factory/demo2" />
       <recent name="$PROJECT_DIR$/src/creational/simplefactory/demo1" />
       <recent name="$PROJECT_DIR$/src/creational/simplefactory/demo3" />
       <recent name="$PROJECT_DIR$/src/creational/simplefactory/demo2" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/creational/simplefactory/demo1" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Client (2)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.simplefactory.demo2.Client" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="creational.simplefactory.demo2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="creational.simplefactory.demo3.Client" />
       <module name="design-pattern" />
@@ -62,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.simplefactory.demo1.Client" />
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.factory.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="creational.simplefactory.demo1.*" />
+          <option name="PATTERN" value="creational.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,27 +106,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.factory.demo1.Client" />
       <module name="design-pattern" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="creational.factory.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.factory.demo2.Client" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="creational.factory.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.factory.demo3.Client" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="creational.factory.demo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.Client (4)" />
+      <item itemvalue="Application.Client (5)" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +172,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582278760632</updated>
-      <workItem from="1582278761911" duration="1599000" />
+      <workItem from="1582278761911" duration="2283000" />
+      <workItem from="1582355271684" duration="1505000" />
     </task>
     <servers />
   </component>
@@ -117,33 +181,41 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1582356946401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1582356946401" />
+    <state x="482" y="95" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582356841381">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="95" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1582356841381" />
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582279813870">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582279813870" />
-    <state width="1396" height="280" key="GridCell.Tab.0.bottom" timestamp="1582280138650">
+    <state width="1396" height="280" key="GridCell.Tab.0.bottom" timestamp="1582357064817">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582280138650" />
+    <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582357064817" />
     <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
-    <state width="1396" height="280" key="GridCell.Tab.0.center" timestamp="1582280138649">
+    <state width="1396" height="280" key="GridCell.Tab.0.center" timestamp="1582357064815">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582280138649" />
+    <state width="1396" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582357064815" />
     <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582279411994" />
-    <state width="1396" height="280" key="GridCell.Tab.0.left" timestamp="1582280138648">
+    <state width="1396" height="280" key="GridCell.Tab.0.left" timestamp="1582357064814">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582280138648" />
+    <state width="1396" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582357064814" />
     <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582279411993" />
-    <state width="1396" height="280" key="GridCell.Tab.0.right" timestamp="1582280138649">
+    <state width="1396" height="280" key="GridCell.Tab.0.right" timestamp="1582357064816">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582280138649" />
+    <state width="1396" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582357064816" />
     <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1582280129691">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1582356673588">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1582280129691" />
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1582356673588" />
   </component>
 </project>

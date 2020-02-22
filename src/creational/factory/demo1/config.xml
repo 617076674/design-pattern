@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<config>
+    <className>creational.factory.demo1.FileLoggerFactory</className>
+</config>
