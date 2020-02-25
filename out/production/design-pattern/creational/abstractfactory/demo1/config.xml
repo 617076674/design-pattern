@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<config>
+    <className>creational.abstractfactory.demo1.SpringSkinFactory</className>
+</config>
