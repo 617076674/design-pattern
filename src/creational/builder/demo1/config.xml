@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<config>
+    <className>creational.builder.demo1.DevilBuilder</className>
+</config>

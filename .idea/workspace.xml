@@ -2,311 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b3a9e6f-ef04-40ea-ba8c-34bda452606b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/AndroidGameFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/AndroidInterfaceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/AndroidOperationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/GameFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/InterfaceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/OperationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/SymbianGameFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/SymbianInterfaceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/SymbianOperationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/WindowsMobileGameFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/WindowsMobileInterfaceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/WindowsMobileOperationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/XMLUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo2/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo1/deepclone/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo1/prototypemanager/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo1/prototypemanager/FAR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo1/prototypemanager/OfficialDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo1/prototypemanager/PPR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo1/prototypemanager/PrototypeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo1/prototypemanager/SRS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo1/shallowclone/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo2/shallowclone/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo2/shallowclone/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/demo2/shallowclone/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/singleton/ContainerSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/singleton/EnumSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/singleton/Multition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/singleton/ThreadLocalInstance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/demo1/XMLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/demo2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/demo2/FullPatternBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/demo2/MemoryPatternBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/demo2/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/demo2/PatternBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/demo2/SimplePatternBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/demo2/XMLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/demo2/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/建造者模式总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/prototype/原型模式总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/adapter/demo1/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/adapter/demo1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/adapter/demo1/OperationAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/adapter/demo1/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/adapter/demo1/ScoreOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/adapter/demo1/XMLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/adapter/demo2/XMLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/adapter/demo2/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/adapter/适配器模式总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/bridge/demo2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/bridge/demo2/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/bridge/demo2/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/bridge/demo2/MySQLDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/bridge/demo2/OracleDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/bridge/demo2/TxtFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/bridge/demo2/XmlFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/bridge/demo2/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/bridge/桥接模式总结.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/Command.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/DisplayHelpClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/DisplayHelpClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/ExitCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/ExitCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/FunctionButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/FunctionButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/HelpCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/HelpCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/SystemExitClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/SystemExitClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/AbstractCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/AbstractCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/AddCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/AddCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/Adder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/Adder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/CalculatorForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/CalculatorForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/AbstractNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/AbstractNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/ActionNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/ActionNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/AndNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/AndNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/DirectionNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/DirectionNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/DistanceNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/DistanceNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/InstructionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/InstructionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/SentenceNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/SentenceNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/AbstractNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/AbstractNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/DivideNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/DivideNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/InstructionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/InstructionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/ModNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/ModNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/MultiNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/MultiNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/NumNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/NumNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/AbstractIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/AbstractIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/AbstractObjectList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/AbstractObjectList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/ProductList$ProductIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/ProductList$ProductIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/ProductList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/ProductList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Button.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/ComboBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/ComboBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Component.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/ConcreteMediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/ConcreteMediator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Label.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Label.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/List.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Mediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Mediator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/SubConcreteMediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/SubConcreteMediator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/TextBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/TextBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Caretaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Caretaker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Memento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Memento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Originator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Originator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/Chessman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/Chessman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/ChessmanMemento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/ChessmanMemento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/MementoCaretaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/MementoCaretaker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/Chessman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/Chessman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/ChessmanMemento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/ChessmanMemento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/MementoCareTaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/MementoCareTaker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/AllyControlCenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/AllyControlCenter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/ConcreteAllyControlCenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/ConcreteAllyControlCenter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/Observer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/Approver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/Approver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/Congress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/Congress.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/Director.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/President.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/President.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/PurchaseRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/PurchaseRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/VicePresident.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/VicePresident.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/AccountState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/AccountState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/NormalState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/NormalState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/OverdraftState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/OverdraftState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/RestrictedState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/RestrictedState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/LargerState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/LargerState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/LargestState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/LargestState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/NormalState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/NormalState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/Screen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/Screen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/ScreenState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/ScreenState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/OffState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/OffState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/OnState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/OnState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/Switch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/SwitchState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/SwitchState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/ChildrenDicount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/ChildrenDicount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/Discount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/Discount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/MovieTicket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/MovieTicket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/StudentDiscount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/StudentDiscount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/VIPDiscount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/VIPDiscount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/CurrentAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/CurrentAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/SavingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/SavingAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/hook/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/hook/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/hook/DataViewer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/hook/DataViewer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/hook/XMLDataViewer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/hook/XMLDataViewer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/Department.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/EmployeeList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/EmployeeList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/FADepartment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/FADepartment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/FulltimeEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/FulltimeEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/HRDepartment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/HRDepartment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/ParttimeEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/ParttimeEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/Button.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/ComboBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/SkinFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/SpringButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/SpringComboBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/SpringSkinFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/SpringTextField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/SummerButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/SummerComboBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/SummerSkinFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/SummerTextField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/TextField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/XMLUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/abstractfactory/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/Actor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/ActorBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/ActorBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/AngelBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/AngelBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/DevilBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/DevilBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/HeroBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/HeroBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/DatabaseLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/DatabaseLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/DatabaseLoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/DatabaseLoggerFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/FileLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/FileLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/FileLoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/FileLoggerFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/Logger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/LoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/LoggerFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo1/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/DatabaseLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/DatabaseLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/DatabaseLoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/DatabaseLoggerFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/FileLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/FileLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/FileLoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/FileLoggerFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/Logger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/LoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/LoggerFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo2/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/GIFPictureReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/GIFPictureReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/GIFPictureReaderFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/GIFPictureReaderFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/JPGPictureReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/JPGPictureReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/JPGPictureReaderFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/JPGPictureReaderFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/PictureReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/PictureReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/PictureReaderFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/PictureReaderFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/factory/demo3/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/prototype/Attachment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/prototype/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/prototype/WeeklyLog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/prototype/deepclone/Attachment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/prototype/deepclone/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/prototype/deepclone/WeeklyLog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/Chart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/Chart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/ChartFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/ChartFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/HistogramChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/HistogramChart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/LineChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/LineChart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/PieChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/PieChart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo1/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo2/Chart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo2/Chart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo2/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo2/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo2/HistogramChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo2/HistogramChart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo2/LineChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo2/LineChart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo2/PieChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo2/PieChart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo2/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo2/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo3/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo3/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo3/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo3/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo3/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo3/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo3/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo3/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo3/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo3/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo3/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/simplefactory/demo3/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/EagerSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/EagerSingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/LazySingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/LazySingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/LoadBalancer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/Singleton$HolderClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/CarController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/CarController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/PoliceCarAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/PoliceCarAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/PoliceLamp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/PoliceLamp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/PoliceSound.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/PoliceSound.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/GIFImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/GIFImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/Image.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/ImageImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/ImageImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/JPGImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/JPGImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/LinuxImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/LinuxImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/Matrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/PNGImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/PNGImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/UnixImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/UnixImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/WindowsImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/WindowsImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/composite/AbstractFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/composite/AbstractFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/composite/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/composite/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/composite/Folder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/composite/Folder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/composite/ImageFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/composite/ImageFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/composite/TextFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/composite/TextFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/composite/VideoFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/composite/VideoFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/BlackBorderDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/BlackBorderDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/Component.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/ComponentDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/ComponentDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/ListBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/ListBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/ScrollBarDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/ScrollBarDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/TextBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/TextBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/Window.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/AbstractEncryptFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/AbstractEncryptFacade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/CipherMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/CipherMachine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/EncryptFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/EncryptFacade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/FileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/FileReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/FileWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/FileWriter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/NewCipherMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/NewCipherMachine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/NewEncryptFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/NewEncryptFacade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/BlackIgoChessman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/BlackIgoChessman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/Coordinates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/Coordinates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/IgoChessman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/IgoChessman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/IgoChessmanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/IgoChessmanFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/WhiteIgoChessman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/WhiteIgoChessman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/AccessValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/AccessValidator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/Logger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/ProxySearcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/ProxySearcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/RealSearcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/RealSearcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/Searcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/Searcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/XMLUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/XMLUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/AbstractDocumentDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/AbstractDocumentDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/AbstractUserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/AbstractUserDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/DAOLogHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/DAOLogHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/DocumentDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/DocumentDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/UserDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/ComboBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/ComboBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/SkinFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/SkinFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/SpringButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/SpringButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/SpringComboBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/SpringComboBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/SpringSkinFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/SpringSkinFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/SpringTextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/SpringTextField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/SummerButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/SummerButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/SummerComboBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/SummerComboBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/SummerSkinFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/SummerSkinFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/SummerTextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/SummerTextField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/TextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/TextField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/XMLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/XMLUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/abstractfactory/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstractfactory/demo1/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/prototype/Attachment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/prototype/demo1/shallowclone/Attachment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/prototype/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/prototype/WeeklyLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/prototype/demo1/shallowclone/WeeklyLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/prototype/deepclone/Attachment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/prototype/demo1/deepclone/Attachment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/prototype/deepclone/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/prototype/deepclone/WeeklyLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/prototype/demo1/deepclone/WeeklyLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/singleton/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/singleton/EagerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/EagerSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/singleton/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/LazySingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/singleton/LoadBalancer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/StaticInnerClassSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/Actor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/ActorBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/AngelBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/DevilBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/HeroBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/builder/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/CarController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/PoliceCarAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/PoliceLamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/PoliceSound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/adapter/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/GIFImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/Image.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/ImageImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/JPGImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/LinuxImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/PNGImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/UnixImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/WindowsImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/bridge/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/demo1/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/ActorBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/demo1/ActorBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/AngelBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/demo1/AngelBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/demo1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/DevilBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/demo1/DevilBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/HeroBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/demo1/HeroBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/XMLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bridge/demo2/XMLUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/demo1/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/adapter/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/adapter/demo2/CarController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/adapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/adapter/demo2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/adapter/PoliceCarAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/adapter/demo2/PoliceCarAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/adapter/PoliceLamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/adapter/demo2/PoliceLamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/adapter/PoliceSound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/adapter/demo2/PoliceSound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/adapter/XMLUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/adapter/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/adapter/demo1/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/bridge/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bridge/demo1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/bridge/GIFImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bridge/demo1/GIFImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/bridge/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bridge/demo1/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/bridge/ImageImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bridge/demo1/ImageImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/bridge/JPGImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bridge/demo1/JPGImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/bridge/LinuxImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bridge/demo1/LinuxImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/bridge/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bridge/demo1/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/bridge/PNGImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bridge/demo1/PNGImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/bridge/UnixImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bridge/demo1/UnixImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/bridge/WindowsImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bridge/demo1/WindowsImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/bridge/XMLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bridge/demo1/XMLUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/bridge/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bridge/demo1/config.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,8 +95,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -337,37 +116,42 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/structure/bridge/demo2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/structure/bridge/demo2" />
+      <recent name="$PROJECT_DIR$/src/structure/adapter" />
+      <recent name="$PROJECT_DIR$/src/structure/adapter/demo1" />
+      <recent name="$PROJECT_DIR$/src/creational/builder/demo2" />
+      <recent name="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="structure.bridge.demo2" />
+      <recent name="structure.adapter.demo2" />
+      <recent name="structure.adapter.demo1" />
+      <recent name="creational.builder.demo2" />
+      <recent name="creational.prototype.demo1.prototypemanager" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/structure/bridge/demo1" />
+      <recent name="$PROJECT_DIR$/src/structure/adapter/demo2" />
+      <recent name="$PROJECT_DIR$/src/creational/builder/demo1" />
       <recent name="$PROJECT_DIR$/src/creational/factory/demo1" />
       <recent name="$PROJECT_DIR$/src/creational/simplefactory/demo1" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="creational.prototype.demo1.prototypemanager" />
-      <recent name="creational.abstractfactory.demo2" />
-      <recent name="creational.factory.demo3" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone" />
-      <recent name="$PROJECT_DIR$/src/creational/abstractfactory/demo2" />
-      <recent name="$PROJECT_DIR$/src/creational/abstractfactory/demo1" />
-      <recent name="$PROJECT_DIR$/src/creational/factory/demo3" />
-      <recent name="$PROJECT_DIR$/src/creational/factory/demo2" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Client (5)">
+  <component name="RunManager" selected="Application.Client (2)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.prototype.demo1.prototypemanager.Client" />
+      <option name="MAIN_CLASS_NAME" value="structure.adapter.demo1.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="creational.prototype.demo1.prototypemanager.*" />
+          <option name="PATTERN" value="structure.adapter.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -375,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.singleton.Client" />
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structure.bridge.demo2.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="creational.singleton.*" />
+          <option name="PATTERN" value="structure.bridge.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,11 +173,11 @@
       </method>
     </configuration>
     <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.prototype.demo2.shallowclone.Client" />
+      <option name="MAIN_CLASS_NAME" value="structure.adapter.demo2.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="creational.prototype.demo2.shallowclone.*" />
+          <option name="PATTERN" value="structure.adapter.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -402,11 +186,11 @@
       </method>
     </configuration>
     <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.prototype.demo2.deepclone.Client" />
+      <option name="MAIN_CLASS_NAME" value="structure.bridge.demo1.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="creational.prototype.demo2.deepclone.*" />
+          <option name="PATTERN" value="structure.bridge.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -415,11 +199,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.prototype.demo1.deepclone.Client" />
+      <option name="MAIN_CLASS_NAME" value="creational.builder.demo2.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="creational.prototype.demo1.deepclone.*" />
+          <option name="PATTERN" value="creational.builder.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -441,19 +225,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client (3)" />
-      <item itemvalue="Application.Client (4)" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Client (4)" />
       <item itemvalue="Application.Client (5)" />
+      <item itemvalue="Application.Client (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Client (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -470,7 +254,10 @@
       <workItem from="1582278761911" duration="2283000" />
       <workItem from="1582355271684" duration="1768000" />
       <workItem from="1582424088942" duration="4678000" />
-      <workItem from="1582448699058" duration="14938000" />
+      <workItem from="1582448699058" duration="15095000" />
+      <workItem from="1583047071008" duration="4289000" />
+      <workItem from="1583234110419" duration="1384000" />
+      <workItem from="1583309243383" duration="1545000" />
     </task>
     <servers />
   </component>
@@ -482,10 +269,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="788" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1582516240745" />
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1582596211022">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1583309763862">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1582596211022" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1583309763862" />
     <state x="482" y="95" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582356841381">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -494,42 +281,42 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582424140417" />
-    <state width="670" height="280" key="GridCell.Tab.0.bottom" timestamp="1582596615070">
+    <state width="1396" height="280" key="GridCell.Tab.0.bottom" timestamp="1583309928268">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582596615070" />
+    <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583309928268" />
     <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
-    <state width="670" height="280" key="GridCell.Tab.0.center" timestamp="1582596615068">
+    <state width="1396" height="280" key="GridCell.Tab.0.center" timestamp="1583309928267">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582596615068" />
+    <state width="1396" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583309928266" />
     <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582279411994" />
-    <state width="670" height="280" key="GridCell.Tab.0.left" timestamp="1582596615066">
+    <state width="1396" height="280" key="GridCell.Tab.0.left" timestamp="1583309928266">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582596615066" />
+    <state width="1396" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583309928266" />
     <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582279411993" />
-    <state width="670" height="280" key="GridCell.Tab.0.right" timestamp="1582596615069">
+    <state width="1396" height="280" key="GridCell.Tab.0.right" timestamp="1583309928267">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582596615069" />
+    <state width="1396" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583309928267" />
     <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
-    <state width="670" height="303" key="GridCell.Tab.1.bottom" timestamp="1582593560431">
+    <state width="670" height="303" key="GridCell.Tab.1.bottom" timestamp="1582596770479">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582593560431" />
-    <state width="670" height="303" key="GridCell.Tab.1.center" timestamp="1582593560429">
+    <state width="670" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582596770479" />
+    <state width="670" height="303" key="GridCell.Tab.1.center" timestamp="1582596770478">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582593560429" />
-    <state width="670" height="303" key="GridCell.Tab.1.left" timestamp="1582593560428">
+    <state width="670" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582596770478" />
+    <state width="670" height="303" key="GridCell.Tab.1.left" timestamp="1582596770477">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582593560428" />
-    <state width="670" height="303" key="GridCell.Tab.1.right" timestamp="1582593560430">
+    <state width="670" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582596770477" />
+    <state width="670" height="303" key="GridCell.Tab.1.right" timestamp="1582596770479">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582593560430" />
+    <state width="670" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582596770479" />
     <state x="208" y="31" key="SettingsEditor" timestamp="1582513235527">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -539,10 +326,10 @@
     </state>
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1582596549761" />
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.811@0.23.1440.811" timestamp="1582532156023" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1582596604744">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1583310316691">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1582596604744" />
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1583310316691" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1582596546283">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
