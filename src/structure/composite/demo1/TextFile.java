@@ -1,11 +1,6 @@
-package structure.composite;
+package structure.composite.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-06-17
- */
 public class TextFile extends AbstractFile {
-
     private String name;
 
     public TextFile(String name) {
@@ -31,8 +26,6 @@ public class TextFile extends AbstractFile {
 
     @Override
     public void killVirus() {
-        //模拟杀毒
         System.out.println("----对文本文件'" + name + "'进行杀毒");
     }
-
 }

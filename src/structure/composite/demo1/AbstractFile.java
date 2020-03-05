@@ -1,9 +1,5 @@
-package structure.composite;
+package structure.composite.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-06-17
- */
 public abstract class AbstractFile {
 
     public abstract void add(AbstractFile file);
@@ -13,5 +9,4 @@ public abstract class AbstractFile {
     public abstract AbstractFile getChild(int i);
 
     public abstract void killVirus();
-
 }

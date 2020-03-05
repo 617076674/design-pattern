@@ -1,14 +1,9 @@
-package structure.composite;
+package structure.composite.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-06-17
- */
-public class VideoFile extends AbstractFile {
-
+public class ImageFile extends AbstractFile {
     private String name;
 
-    public VideoFile(String name) {
+    public ImageFile(String name) {
         this.name = name;
     }
 
@@ -30,8 +25,7 @@ public class VideoFile extends AbstractFile {
 
     @Override
     public void killVirus() {
-        //模拟杀毒
-        System.out.println("----对视频文件'" + name + "'进行杀毒");
+        System.out.println("----对图像文件'" + name + "'进行杀毒");
     }
 
 }

@@ -1,15 +1,8 @@
-package structure.composite;
+package structure.composite.demo1;
 
 import java.util.ArrayList;
 
-/**
- * @author qianyihui
- * @date 2019-06-17
- */
 public class Folder extends AbstractFile {
-
-    //定义集合fileList，用于存储AbstractFile类型的成员
-
     private ArrayList<AbstractFile> fileList = new ArrayList<>();
 
     private String name;
@@ -36,10 +29,8 @@ public class Folder extends AbstractFile {
     @Override
     public void killVirus() {
         System.out.println("****对文件夹'" + name + "'进行杀毒");       //模拟杀毒
-        //递归调用成员构件的killVirus()方法
         for (Object obj : fileList) {
             ((AbstractFile) obj).killVirus();
         }
     }
-
 }
