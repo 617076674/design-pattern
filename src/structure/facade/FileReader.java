@@ -4,10 +4,6 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-/**
- * @author qianyihui
- * @date 2019-06-29
- */
 public class FileReader {
     public String read(String fileNameSrc) {
         System.out.print("读取文件，获取明文：");

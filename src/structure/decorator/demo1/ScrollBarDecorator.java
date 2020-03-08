@@ -1,9 +1,5 @@
-package structure.decorator;
+package structure.decorator.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-06-28
- */
 public class ScrollBarDecorator extends ComponentDecorator {
     public ScrollBarDecorator(Component component) {
         super(component);

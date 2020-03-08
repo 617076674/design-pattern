@@ -4,10 +4,6 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-/**
- * @author qianyihui
- * @date 2019-06-29
- */
 public class FileWriter {
     public void write(String encryptStr, String fileNameDes) {
         System.out.print("保存密文，写入文件.");

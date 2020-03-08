@@ -1,9 +1,5 @@
 package structure.facade;
 
-/**
- * @author qianyihui
- * @date 2019-06-29
- */
 public class CipherMachine {
     public String encrypt(String plainText) {
         System.out.print("数据加密，将明文转换为密文：");

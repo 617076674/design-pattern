@@ -1,9 +1,5 @@
 package structure.facade;
 
-/**
- * @author qianyihui
- * @date 2019-06-29
- */
 public class NewEncryptFacade extends AbstractEncryptFacade {
     //维持对子系统对象的引用
     private FileReader reader;
