@@ -2,40 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b3a9e6f-ef04-40ea-ba8c-34bda452606b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/structure/decorator/demo1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/decorator/demo2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/decorator/demo2/EncryptionAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/decorator/demo2/EncryptionAlgorithmDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/decorator/demo2/ModEncryptionDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/decorator/demo2/ReverseEncryptionDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/decorator/demo2/SimpleEncryption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/decorator/装饰者模式总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/facade/外观模式总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/flyweight/demo2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/flyweight/demo2/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/flyweight/demo2/PictureResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/flyweight/demo2/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/flyweight/demo2/ResourceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/flyweight/demo2/VideoResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/flyweight/享元模式总结.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/BlackBorderDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/Component.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/ComponentDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/ListBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/ScrollBarDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/TextBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/decorator/Window.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/decorator/BlackBorderDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/decorator/demo1/BlackBorderDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/decorator/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/decorator/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/decorator/demo1/Component.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/decorator/ComponentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/decorator/demo1/ComponentDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/decorator/ListBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/decorator/demo1/ListBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/decorator/ScrollBarDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/decorator/demo1/ScrollBarDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/decorator/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/decorator/demo1/TextBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/decorator/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/decorator/demo1/Window.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/facade/AbstractEncryptFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/facade/AbstractEncryptFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/facade/CipherMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/facade/CipherMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/facade/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/facade/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/facade/EncryptFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/facade/EncryptFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/facade/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/facade/FileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/facade/FileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/facade/FileWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/facade/NewCipherMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/facade/NewCipherMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/facade/NewEncryptFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/facade/NewEncryptFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/AbstractEncryptFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/AbstractEncryptFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/CipherMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/CipherMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/EncryptFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/EncryptFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/FileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/FileReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/FileWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/FileWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/NewCipherMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/NewCipherMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/NewEncryptFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/facade/NewEncryptFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/BlackIgoChessman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/Coordinates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/IgoChessman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/IgoChessmanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/flyweight/WhiteIgoChessman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/flyweight/BlackIgoChessman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/flyweight/demo1/BlackIgoChessman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/flyweight/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/flyweight/demo1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/flyweight/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/flyweight/demo1/Coordinates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/flyweight/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/flyweight/IgoChessman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/flyweight/demo1/IgoChessman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/flyweight/IgoChessmanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/flyweight/demo1/IgoChessmanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/flyweight/WhiteIgoChessman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/flyweight/demo1/WhiteIgoChessman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,20 +69,6 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/structure/bridge/demo2" />
-      <recent name="$PROJECT_DIR$/src/structure/adapter" />
-      <recent name="$PROJECT_DIR$/src/structure/adapter/demo1" />
-      <recent name="$PROJECT_DIR$/src/creational/builder/demo2" />
-      <recent name="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="structure.bridge.demo2" />
-      <recent name="structure.adapter.demo2" />
-      <recent name="structure.adapter.demo1" />
-      <recent name="creational.builder.demo2" />
-      <recent name="creational.prototype.demo1.prototypemanager" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/structure/bridge/demo1" />
       <recent name="$PROJECT_DIR$/src/structure/adapter/demo2" />
@@ -94,27 +76,28 @@
       <recent name="$PROJECT_DIR$/src/creational/factory/demo1" />
       <recent name="$PROJECT_DIR$/src/creational/simplefactory/demo1" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="structure.flyweight.demo2" />
+      <recent name="structure.bridge.demo2" />
+      <recent name="structure.adapter.demo2" />
+      <recent name="structure.adapter.demo1" />
+      <recent name="creational.builder.demo2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/structure/bridge/demo2" />
+      <recent name="$PROJECT_DIR$/src/structure/adapter" />
+      <recent name="$PROJECT_DIR$/src/structure/adapter/demo1" />
+      <recent name="$PROJECT_DIR$/src/creational/builder/demo2" />
+      <recent name="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.Client (4)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="structure.decorator.demo2.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="structure.decorator.demo2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.bridge.demo2.Client" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="structure.bridge.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.bridge.demo1.Client" />
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structure.flyweight.demo2.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure.bridge.demo1.*" />
+          <option name="PATTERN" value="structure.flyweight.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +132,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.decorator.demo1.Client" />
+      <option name="MAIN_CLASS_NAME" value="structure.flyweight.demo1.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure.decorator.demo1.*" />
+          <option name="PATTERN" value="structure.flyweight.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,19 +157,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structure.flyweight.Demo" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structure.flyweight.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.Client (5)" />
-      <item itemvalue="Application.Client (2)" />
       <item itemvalue="Application.Client (3)" />
       <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Client (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +209,7 @@
       <workItem from="1583452560293" duration="760000" />
       <workItem from="1583541478166" duration="1471000" />
       <workItem from="1583572322333" duration="508000" />
-      <workItem from="1583658791595" duration="566000" />
+      <workItem from="1583658791595" duration="2573000" />
     </task>
     <servers />
   </component>
@@ -224,10 +221,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="788" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1583658938184" />
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1583572109749">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1583763019118">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1583572109749" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1583763019118" />
     <state x="482" y="95" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582356841381">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -236,25 +233,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582424140417" />
-    <state width="670" height="280" key="GridCell.Tab.0.bottom" timestamp="1583572302790">
+    <state width="1396" height="280" key="GridCell.Tab.0.bottom" timestamp="1583763256350">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583572302790" />
+    <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583763256350" />
     <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
-    <state width="670" height="280" key="GridCell.Tab.0.center" timestamp="1583572302789">
+    <state width="1396" height="280" key="GridCell.Tab.0.center" timestamp="1583763256348">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583572302789" />
+    <state width="1396" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583763256348" />
     <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582279411994" />
-    <state width="670" height="280" key="GridCell.Tab.0.left" timestamp="1583572302789">
+    <state width="1396" height="280" key="GridCell.Tab.0.left" timestamp="1583763256347">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583572302789" />
+    <state width="1396" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583763256347" />
     <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582279411993" />
-    <state width="670" height="280" key="GridCell.Tab.0.right" timestamp="1583572302790">
+    <state width="1396" height="280" key="GridCell.Tab.0.right" timestamp="1583763256349">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583572302790" />
+    <state width="1396" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583763256349" />
     <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
     <state width="670" height="303" key="GridCell.Tab.1.bottom" timestamp="1582596770479">
       <screen x="0" y="0" width="1440" height="900" />
@@ -281,10 +278,10 @@
     </state>
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1582596549761" />
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.811@0.23.1440.811" timestamp="1582532156023" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1583659278806">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1583763143820">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1583659278806" />
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1583763143820" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1582596546283">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

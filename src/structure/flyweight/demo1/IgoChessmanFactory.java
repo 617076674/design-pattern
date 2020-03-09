@@ -1,13 +1,10 @@
-package structure.flyweight;
+package structure.flyweight.demo1;
 
 import java.util.Hashtable;
 
-/**
- * @author qianyihui
- * @date 2019-06-30
- */
 public class IgoChessmanFactory {
     private static IgoChessmanFactory instance = new IgoChessmanFactory();
+
     private static Hashtable ht;
 
     private IgoChessmanFactory() {

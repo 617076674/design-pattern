@@ -1,9 +1,5 @@
-package structure.flyweight;
+package structure.flyweight.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-06-30
- */
 public class Client {
     public static void main(String[] args) {
         IgoChessman black1, black2, black3, white1, white2;

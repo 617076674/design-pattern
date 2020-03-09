@@ -1,9 +1,5 @@
-package structure.flyweight;
+package structure.flyweight.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-06-30
- */
 public abstract class IgoChessman {
     public abstract String getColor();
 

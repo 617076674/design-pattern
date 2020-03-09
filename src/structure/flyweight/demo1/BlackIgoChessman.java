@@ -1,9 +1,5 @@
-package structure.flyweight;
+package structure.flyweight.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-06-30
- */
 public class BlackIgoChessman extends IgoChessman {
     @Override
     public String getColor() {
