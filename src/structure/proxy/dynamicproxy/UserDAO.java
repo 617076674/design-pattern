@@ -1,9 +1,5 @@
 package structure.proxy.dynamicproxy;
 
-/**
- * @author qianyihui
- * @date 2019-07-01
- */
 public class UserDAO implements AbstractUserDAO {
     @Override
     public Boolean findUserById(String userId) {

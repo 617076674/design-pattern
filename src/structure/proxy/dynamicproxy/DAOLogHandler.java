@@ -5,16 +5,10 @@ import java.lang.reflect.Method;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
-/**
- * @author qianyihui
- * @date 2019-07-01
- */
 public class DAOLogHandler implements InvocationHandler {
     private Calendar calendar;
 
     private Object object;
-
-    public DAOLogHandler() {}
 
     public DAOLogHandler(Object object) {
         this.object = object;
@@ -30,9 +24,8 @@ public class DAOLogHandler implements InvocationHandler {
 
     public void beforeInvoke() {
         calendar = new GregorianCalendar();
-        int hour = calendar.get(Calendar.HOUR_OF_DAY);
-        int minute = calendar.get(Calendar.MINUTE);
-        int second = calendar.get(Calendar.SECOND);
+        int hour = calendar.get(Calendar.HOUR_OF_DAY), minute = calendar.get(Calendar.MINUTE),
+                second = calendar.get(Calendar.SECOND);
         String time = hour + ":" + minute + ":" + second;
         System.out.println("调用时间：" + time);
     }
@@ -40,5 +33,4 @@ public class DAOLogHandler implements InvocationHandler {
     public void afterInvoke() {
         System.out.println("方法调用结束！");
     }
-
 }

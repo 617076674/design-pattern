@@ -1,9 +1,5 @@
-package structure.proxy;
+package structure.proxy.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-07-01
- */
 public class Logger {
     //模拟实现日志记录
     public void log(String userId) {

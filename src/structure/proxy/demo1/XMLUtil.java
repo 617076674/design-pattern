@@ -1,4 +1,4 @@
-package structure.proxy;
+package structure.proxy.demo1;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
@@ -9,15 +9,13 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.File;
 
 public class XMLUtil {
-
-    //该方法从XML配置文件中提取具体类的类名，并返回一个实例对象
     public static Object getBean() {
         try {
             //创建DOM文档对象
             DocumentBuilderFactory dFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder builder = dFactory.newDocumentBuilder();
             Document doc;
-            doc = builder.parse(new File("src//structure//proxy//config.xml"));
+            doc = builder.parse(new File("src//structure//proxy//demo1//config.xml"));
 
             //获取包含类名的文本节点
             NodeList nl = doc.getElementsByTagName("className");
@@ -33,5 +31,4 @@ public class XMLUtil {
             return null;
         }
     }
-
 }

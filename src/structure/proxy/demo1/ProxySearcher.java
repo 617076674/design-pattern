@@ -1,9 +1,5 @@
-package structure.proxy;
+package structure.proxy.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-07-01
- */
 public class ProxySearcher implements Searcher {
     private RealSearcher searcher = new RealSearcher();
 
