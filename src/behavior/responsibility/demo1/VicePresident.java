@@ -1,9 +1,5 @@
-package behavior.responsibility;
+package behavior.responsibility.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-07-02
- */
 public class VicePresident extends Approver {
     public VicePresident(String name) {
         super(name);

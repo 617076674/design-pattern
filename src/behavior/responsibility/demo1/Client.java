@@ -1,9 +1,5 @@
-package behavior.responsibility;
+package behavior.responsibility.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-07-02
- */
 public class Client {
     public static void main(String[] args) {
         Approver wjzhang, gyang, jguo, meeting;

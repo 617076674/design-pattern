@@ -2,38 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b3a9e6f-ef04-40ea-ba8c-34bda452606b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/structure/proxy/demo2/BigPicture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/proxy/demo2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/proxy/demo2/Picture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/proxy/demo2/SmallPicture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/proxy/代理模式总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/responsibility/demo2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/responsibility/demo2/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/responsibility/demo2/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/responsibility/demo2/LeaveRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/responsibility/demo2/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/responsibility/职责链模式总结.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/AccessValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/Logger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/ProxySearcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/RealSearcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/Searcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/XMLUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/DAOLogHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/DAOLogHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/DocumentDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/DocumentDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/structure/proxy/dynamicproxy/UserDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/AccessValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/demo1/AccessValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/demo1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/demo1/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/ProxySearcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/demo1/ProxySearcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/RealSearcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/demo1/RealSearcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/Searcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/demo1/Searcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/XMLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/demo1/XMLUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/demo1/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/dynamicproxy/AbstractDocumentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/dynamicproxy/AbstractDocumentDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/dynamicproxy/AbstractUserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/dynamicproxy/AbstractUserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/dynamicproxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/dynamicproxy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/dynamicproxy/DAOLogHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/dynamicproxy/DAOLogHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/dynamicproxy/DocumentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/dynamicproxy/DocumentDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/proxy/dynamicproxy/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/proxy/dynamicproxy/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/Approver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/Congress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/Director.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/President.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/PurchaseRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/responsibility/VicePresident.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/responsibility/Approver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/responsibility/demo1/Approver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/responsibility/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/responsibility/demo1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/responsibility/Congress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/responsibility/demo1/Congress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/responsibility/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/responsibility/demo1/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/responsibility/President.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/responsibility/demo1/President.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/responsibility/PurchaseRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/responsibility/demo1/PurchaseRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/responsibility/VicePresident.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/responsibility/demo1/VicePresident.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,20 +60,6 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/structure/proxy/demo1" />
-      <recent name="$PROJECT_DIR$/src/structure/bridge/demo1" />
-      <recent name="$PROJECT_DIR$/src/structure/adapter/demo2" />
-      <recent name="$PROJECT_DIR$/src/creational/builder/demo1" />
-      <recent name="$PROJECT_DIR$/src/creational/factory/demo1" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="structure.flyweight.demo2" />
-      <recent name="structure.bridge.demo2" />
-      <recent name="structure.adapter.demo2" />
-      <recent name="structure.adapter.demo1" />
-      <recent name="creational.builder.demo2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/structure/bridge/demo2" />
       <recent name="$PROJECT_DIR$/src/structure/adapter" />
@@ -92,8 +67,22 @@
       <recent name="$PROJECT_DIR$/src/creational/builder/demo2" />
       <recent name="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="behavior.responsibility.demo2" />
+      <recent name="structure.flyweight.demo2" />
+      <recent name="structure.bridge.demo2" />
+      <recent name="structure.adapter.demo2" />
+      <recent name="structure.adapter.demo1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/structure/proxy/demo1" />
+      <recent name="$PROJECT_DIR$/src/structure/bridge/demo1" />
+      <recent name="$PROJECT_DIR$/src/structure/adapter/demo2" />
+      <recent name="$PROJECT_DIR$/src/creational/builder/demo1" />
+      <recent name="$PROJECT_DIR$/src/creational/factory/demo1" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.Client (5)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="structure.proxy.demo2.Client" />
       <module name="design-pattern" />
@@ -146,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.flyweight.demo1.Client" />
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior.responsibility.demo2.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure.flyweight.demo1.*" />
+          <option name="PATTERN" value="behavior.responsibility.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,19 +162,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client" />
       <item itemvalue="Application.Client (4)" />
       <item itemvalue="Application.Client (2)" />
       <item itemvalue="Application.Client (3)" />
       <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Client (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (4)" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +200,8 @@
       <workItem from="1583452560293" duration="760000" />
       <workItem from="1583541478166" duration="1471000" />
       <workItem from="1583572322333" duration="508000" />
-      <workItem from="1583658791595" duration="4740000" />
+      <workItem from="1583658791595" duration="4809000" />
+      <workItem from="1583925134731" duration="1238000" />
     </task>
     <servers />
   </component>
@@ -223,54 +213,54 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="788" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1583658938184" />
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1583843040341">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1583925918891">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1583843040341" />
-    <state x="482" y="95" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582356841381">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1583925918891" />
+    <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583925820334">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="482" y="95" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1582356841381" />
+    <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1583925820334" />
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582424140417">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582424140417" />
-    <state width="655" height="280" key="GridCell.Tab.0.bottom" timestamp="1583843249961">
+    <state width="1396" height="303" key="GridCell.Tab.0.bottom" timestamp="1583925997465">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="655" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583843249961" />
+    <state width="1396" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583925997465" />
     <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
-    <state width="655" height="280" key="GridCell.Tab.0.center" timestamp="1583843249959">
+    <state width="1396" height="303" key="GridCell.Tab.0.center" timestamp="1583925997463">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="655" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583843249959" />
+    <state width="1396" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583925997463" />
     <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582279411994" />
-    <state width="655" height="280" key="GridCell.Tab.0.left" timestamp="1583843249958">
+    <state width="1396" height="303" key="GridCell.Tab.0.left" timestamp="1583925997462">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="655" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583843249958" />
+    <state width="1396" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583925997462" />
     <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582279411993" />
-    <state width="655" height="280" key="GridCell.Tab.0.right" timestamp="1583843249960">
+    <state width="1396" height="303" key="GridCell.Tab.0.right" timestamp="1583925997464">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="655" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583843249960" />
+    <state width="1396" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583925997464" />
     <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
-    <state width="670" height="303" key="GridCell.Tab.1.bottom" timestamp="1582596770479">
+    <state width="1396" height="303" key="GridCell.Tab.1.bottom" timestamp="1583925997472">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582596770479" />
-    <state width="670" height="303" key="GridCell.Tab.1.center" timestamp="1582596770478">
+    <state width="1396" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583925997472" />
+    <state width="1396" height="303" key="GridCell.Tab.1.center" timestamp="1583925997471">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582596770478" />
-    <state width="670" height="303" key="GridCell.Tab.1.left" timestamp="1582596770477">
+    <state width="1396" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1583925997471" />
+    <state width="1396" height="303" key="GridCell.Tab.1.left" timestamp="1583925997470">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582596770477" />
-    <state width="670" height="303" key="GridCell.Tab.1.right" timestamp="1582596770479">
+    <state width="1396" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1583925997470" />
+    <state width="1396" height="303" key="GridCell.Tab.1.right" timestamp="1583925997471">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582596770479" />
+    <state width="1396" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1583925997471" />
     <state x="208" y="31" key="SettingsEditor" timestamp="1582513235527">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

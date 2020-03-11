@@ -1,12 +1,10 @@
-package behavior.responsibility;
+package behavior.responsibility.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-07-02
- */
 public class PurchaseRequest {
     private double amount;
+
     private int number;
+
     private String purpose;
 
     public PurchaseRequest(double amount, int number, String purpose) {

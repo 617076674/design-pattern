@@ -1,11 +1,6 @@
-package behavior.responsibility;
+package behavior.responsibility.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-07-02
- */
 public class Director extends Approver {
-
     public Director(String name) {
         super(name);
     }

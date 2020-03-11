@@ -1,11 +1,8 @@
-package behavior.responsibility;
+package behavior.responsibility.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-07-02
- */
 public abstract class Approver {
     protected Approver successor;
+
     protected String name;
 
     public Approver(String name) {
