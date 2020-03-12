@@ -1,0 +1,4 @@
+<?xml version="1.0"?> <config>
+    <className>behavior.command.demo2.HelpCommand</className>
+    <className>behavior.command.demo2.MinimizeCommand</className>
+</config>

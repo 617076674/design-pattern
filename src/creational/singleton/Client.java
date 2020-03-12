@@ -6,13 +6,13 @@ import java.lang.reflect.InvocationTargetException;
 
 public class Client {
     public static void main(String[] args) throws IOException, ClassNotFoundException, NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException {
-//        EagerSingleton singleton = EagerSingleton.getInstance();
-//        ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("singleton_file"));
-//        oos.writeObject(singleton);
-//        File file = new File("singleton_file");
-//        ObjectInputStream ois = new ObjectInputStream(new FileInputStream(file));
-//        EagerSingleton newSingleton = (EagerSingleton) ois.readObject();
-//        System.out.println(singleton == newSingleton);
+        Singleton singleton1 = Singleton.getInstance();
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        ObjectOutputStream oos = new ObjectOutputStream(baos);
+        oos.writeObject(singleton1);
+        ObjectInputStream ois = new ObjectInputStream(new ByteArrayInputStream(baos.toByteArray()));
+        Singleton singleton2 = (Singleton) ois.readObject();
+        System.out.println(singleton1 == singleton2);
 
 //        Class objectClass = EagerSingleton.class;
 //        Constructor constructor = objectClass.getDeclaredConstructor();
@@ -48,11 +48,13 @@ public class Client {
 //        EnumSingleton newSingleton = (EnumSingleton) ois.readObject();
 //        System.out.println(singleton.getData() == newSingleton.getData());
 
-        Class objectClass = EnumSingleton.class;
-        Constructor constructor = objectClass.getDeclaredConstructor(String.class, int.class);
-        constructor.setAccessible(true);
-        EnumSingleton singleton1 = EnumSingleton.getInstance();
-        EnumSingleton singleton2 = (EnumSingleton) constructor.newInstance("qyh", 666);
-        System.out.println(singleton1 == singleton2);
+//        Class objectClass = EnumSingleton.class;
+//        Constructor constructor = objectClass.getDeclaredConstructor(String.class, int.class);
+//        constructor.setAccessible(true);
+//        EnumSingleton singleton1 = EnumSingleton.getInstance();
+//        EnumSingleton singleton2 = (EnumSingleton) constructor.newInstance("qyh", 666);
+//        System.out.println(singleton1 == singleton2);
+//        Singleton singleton = Singleton.getInstance();
+//        System.out.println(singleton == Singleton.getInstance());
     }
 }
