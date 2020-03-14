@@ -1,7 +1,6 @@
 package behavior.iterator;
 
 public interface AbstractIterator {
-
     void next();    //移至下一个元素
 
     boolean isLast();   //判断是否为最后一个元素
@@ -13,5 +12,4 @@ public interface AbstractIterator {
     Object getNextItem();   //获取下一个元素
 
     Object getPreviousItem();   //获取上一个元素
-
 }

@@ -2,63 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b3a9e6f-ef04-40ea-ba8c-34bda452606b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo2/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo2/FBSettingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo2/FunctionButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo2/HelpCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo2/HelpHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo2/MinimizeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo2/WindowHanlder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo2/XMLUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo2/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo4/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo4/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo4/ConfigOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo4/ConfigSettingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo4/FileUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo4/InsertCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo4/ModifyCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo5/BoardScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo5/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo5/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo5/CreateCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo5/EditCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo5/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo5/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/demo5/OpenCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/command/命令模式总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo1/AbstractExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo1/AddExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo1/InstructionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo1/NumExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo1/SubExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/CommandNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/ExpressionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/LoopCommandNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/PrimitiveCommandNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/解释器模式总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/iterator/迭代器模式总结.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/DisplayHelpClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/ExitCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/FunctionButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/HelpCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/SystemExitClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/XMLUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/AbstractCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/AddCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/Adder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/CalculatorForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/command/undo/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/AbstractNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/ActionNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/AndNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/DirectionNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/DistanceNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/InstructionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/SentenceNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/AbstractNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/DivideNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/InstructionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/ModNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/MultiNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/NumNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/AbstractIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/AbstractObjectList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/ProductList$ProductIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/ProductList.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo1/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/DisplayHelpClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo1/DisplayHelpClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/ExitCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo1/ExitCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/FunctionButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo1/FunctionButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/HelpCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo1/HelpCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/SystemExitClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo1/SystemExitClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/XMLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo1/XMLUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo1/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/undo/AbstractCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo3/AbstractCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/undo/AddCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo3/AddCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/undo/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo3/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/undo/CalculatorForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo3/CalculatorForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/command/undo/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/command/demo3/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/AbstractNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/AbstractNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/ActionNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/ActionNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/AndNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/AndNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/DirectionNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/DirectionNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/DistanceNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/DistanceNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/InstructionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/InstructionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/SentenceNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/SentenceNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/AbstractNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/DivideNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/InstructionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/ModNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/MultiNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/NumNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/iterator/AbstractIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/iterator/AbstractIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/iterator/AbstractObjectList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/iterator/AbstractObjectList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/iterator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/iterator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/iterator/ProductList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/iterator/ProductList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/creational/singleton/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,20 +97,6 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/structure/bridge/demo2" />
-      <recent name="$PROJECT_DIR$/src/structure/adapter" />
-      <recent name="$PROJECT_DIR$/src/structure/adapter/demo1" />
-      <recent name="$PROJECT_DIR$/src/creational/builder/demo2" />
-      <recent name="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="behavior.responsibility.demo2" />
-      <recent name="structure.flyweight.demo2" />
-      <recent name="structure.bridge.demo2" />
-      <recent name="structure.adapter.demo2" />
-      <recent name="structure.adapter.demo1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/behavior/command/demo1" />
       <recent name="$PROJECT_DIR$/src/structure/proxy/demo1" />
@@ -118,40 +104,28 @@
       <recent name="$PROJECT_DIR$/src/structure/adapter/demo2" />
       <recent name="$PROJECT_DIR$/src/creational/builder/demo1" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="behavior.interpreter.demo1" />
+      <recent name="behavior.responsibility.demo2" />
+      <recent name="structure.flyweight.demo2" />
+      <recent name="structure.bridge.demo2" />
+      <recent name="structure.adapter.demo2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/structure/bridge/demo2" />
+      <recent name="$PROJECT_DIR$/src/structure/adapter" />
+      <recent name="$PROJECT_DIR$/src/structure/adapter/demo1" />
+      <recent name="$PROJECT_DIR$/src/creational/builder/demo2" />
+      <recent name="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Client (4)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior.command.demo4.Client" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="behavior.command.demo4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior.command.demo2.Client" />
+      <option name="MAIN_CLASS_NAME" value="behavior.interpreter.demo3.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavior.command.demo2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior.command.demo3.Client" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="behavior.command.demo3.*" />
+          <option name="PATTERN" value="behavior.interpreter.demo3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.prototype.demo1.shallowclone.Client" />
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior.interpreter.demo2.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="creational.prototype.demo1.shallowclone.*" />
+          <option name="PATTERN" value="behavior.interpreter.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +159,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.prototype.demo1.deepclone.Main" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior.interpreter.demo1.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="creational.prototype.demo1.deepclone.*" />
+          <option name="PATTERN" value="behavior.interpreter.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior.iterator.Client" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavior.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,19 +186,17 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Client (2)" />
-      <item itemvalue="Application.Client (3)" />
-      <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Client (4)" />
+      <item itemvalue="Application.Client (5)" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Client (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (4)" />
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +223,9 @@
       <workItem from="1583541478166" duration="1471000" />
       <workItem from="1583572322333" duration="508000" />
       <workItem from="1583658791595" duration="4809000" />
-      <workItem from="1583925134731" duration="7642000" />
+      <workItem from="1583925134731" duration="7748000" />
+      <workItem from="1584094532367" duration="5377000" />
+      <workItem from="1584172453499" duration="410000" />
     </task>
     <servers />
   </component>
@@ -250,10 +237,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="788" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1583658938184" />
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1584018895785">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1584172286008">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584018895785" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584172286008" />
     <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583925820334">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -262,46 +249,50 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582424140417" />
-    <state width="1396" height="280" key="GridCell.Tab.0.bottom" timestamp="1584019090649">
+    <state x="120" y="160" key="#xdebugger.evaluate" timestamp="1584168693458">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584019090649" />
+    <state x="120" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1584168693458" />
+    <state width="670" height="303" key="GridCell.Tab.0.bottom" timestamp="1584172441233">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="670" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584172441233" />
     <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
     <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1584019072005" />
-    <state width="1396" height="280" key="GridCell.Tab.0.center" timestamp="1584019090647">
+    <state width="670" height="303" key="GridCell.Tab.0.center" timestamp="1584172441233">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584019090647" />
+    <state width="670" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584172441233" />
     <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582279411994" />
     <state width="1396" height="280" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1584019072003" />
-    <state width="1396" height="280" key="GridCell.Tab.0.left" timestamp="1584019090646">
+    <state width="670" height="303" key="GridCell.Tab.0.left" timestamp="1584172441232">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584019090646" />
+    <state width="670" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584172441232" />
     <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582279411993" />
     <state width="1396" height="280" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1584019072003" />
-    <state width="1396" height="280" key="GridCell.Tab.0.right" timestamp="1584019090648">
+    <state width="670" height="303" key="GridCell.Tab.0.right" timestamp="1584172441233">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584019090648" />
+    <state width="670" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584172441233" />
     <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
     <state width="1396" height="280" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1584019072004" />
-    <state width="1396" height="303" key="GridCell.Tab.1.bottom" timestamp="1583925997472">
+    <state width="670" height="303" key="GridCell.Tab.1.bottom" timestamp="1584172441235">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583925997472" />
-    <state width="1396" height="303" key="GridCell.Tab.1.center" timestamp="1583925997471">
+    <state width="670" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584172441235" />
+    <state width="670" height="303" key="GridCell.Tab.1.center" timestamp="1584172441234">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1583925997471" />
-    <state width="1396" height="303" key="GridCell.Tab.1.left" timestamp="1583925997470">
+    <state width="670" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584172441234" />
+    <state width="670" height="303" key="GridCell.Tab.1.left" timestamp="1584172441234">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1583925997470" />
-    <state width="1396" height="303" key="GridCell.Tab.1.right" timestamp="1583925997471">
+    <state width="670" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584172441234" />
+    <state width="670" height="303" key="GridCell.Tab.1.right" timestamp="1584172441234">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1583925997471" />
+    <state width="670" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584172441234" />
     <state x="208" y="31" key="SettingsEditor" timestamp="1582513235527">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -311,10 +302,10 @@
     </state>
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1584012711169" />
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.811@0.23.1440.811" timestamp="1582532156023" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1584019054678">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1584170909163">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584019054678" />
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584170909163" />
     <state width="500" height="445" key="SwitcherDM/0.23.1440.808@0.23.1440.808" timestamp="1583843479797" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584012992865">
       <screen x="0" y="0" width="1440" height="900" />

@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public abstract class AbstractObjectList {
-
     protected List<Object> objects = new ArrayList<>();
 
     public AbstractObjectList(List<Object> objects) {

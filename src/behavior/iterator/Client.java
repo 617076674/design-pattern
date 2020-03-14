@@ -11,13 +11,8 @@ public class Client {
         products.add("断肠草");
         products.add("葵花宝典");
         products.add("四十二章经");
-
-        AbstractObjectList list;
-        AbstractIterator iterator;
-
-        list = new ProductList(products);   //创建聚合对象
-        iterator = list.createIterator();   //创建迭代器对象
-
+        AbstractObjectList list = new ProductList(products);
+        AbstractIterator iterator = list.createIterator();
         System.out.println("正向遍历：");
         while (!iterator.isLast()) {
             System.out.println(iterator.getNextItem() + ",");

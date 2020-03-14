@@ -6,14 +6,6 @@ import java.lang.reflect.InvocationTargetException;
 
 public class Client {
     public static void main(String[] args) throws IOException, ClassNotFoundException, NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException {
-        Singleton singleton1 = Singleton.getInstance();
-        ByteArrayOutputStream baos = new ByteArrayOutputStream();
-        ObjectOutputStream oos = new ObjectOutputStream(baos);
-        oos.writeObject(singleton1);
-        ObjectInputStream ois = new ObjectInputStream(new ByteArrayInputStream(baos.toByteArray()));
-        Singleton singleton2 = (Singleton) ois.readObject();
-        System.out.println(singleton1 == singleton2);
-
 //        Class objectClass = EagerSingleton.class;
 //        Constructor constructor = objectClass.getDeclaredConstructor();
 //        constructor.setAccessible(true);

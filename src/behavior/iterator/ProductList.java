@@ -3,7 +3,6 @@ package behavior.iterator;
 import java.util.List;
 
 public class ProductList extends AbstractObjectList {
-
     public ProductList(List<Object> objects) {
         super(objects);
     }
@@ -13,9 +12,7 @@ public class ProductList extends AbstractObjectList {
         return new ProductIterator();
     }
 
-    //商品迭代器：具体迭代器，内部类实现
     private class ProductIterator implements AbstractIterator {
-
         private int cursor1;
 
         private int cursor2;
@@ -58,5 +55,4 @@ public class ProductList extends AbstractObjectList {
             return objects.get(cursor2);
         }
     }
-
 }
