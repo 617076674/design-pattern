@@ -2,64 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b3a9e6f-ef04-40ea-ba8c-34bda452606b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo1/AbstractExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo1/AddExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo1/InstructionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo1/NumExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo1/SubExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/CommandNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/ExpressionNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/LoopCommandNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo3/PrimitiveCommandNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/interpreter/解释器模式总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/iterator/迭代器模式总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/GraphicPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/ListPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/Pane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/TextPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/中介者模式总结.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/AbstractNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/ActionNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/AndNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/DirectionNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/DistanceNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/InstructionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/SentenceNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/AbstractNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/DivideNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/InstructionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/ModNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/MultiNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/interpreter/test/NumNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/AbstractIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/AbstractObjectList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/ProductList$ProductIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/ProductList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/creational/singleton/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/AbstractNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/AbstractNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/ActionNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/ActionNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/AndNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/AndNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/DirectionNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/DirectionNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/DistanceNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/DistanceNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/InstructionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/InstructionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/SentenceNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/interpreter/demo2/SentenceNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/AbstractNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/DivideNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/InstructionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/ModNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/MultiNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/interpreter/test/NumNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/iterator/AbstractIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/iterator/AbstractIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/iterator/AbstractObjectList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/iterator/AbstractObjectList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/iterator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/iterator/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/iterator/ProductList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/iterator/ProductList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/singleton/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/demo1/AbstractIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/demo1/AbstractObjectList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/demo1/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/demo1/ProductList$ProductIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/demo1/ProductList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/ComboBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/ConcreteMediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Label.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/SubConcreteMediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/TextBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/ComboBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/ComboBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/ConcreteMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/ConcreteMediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/Label.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/Label.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/SubConcreteMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/SubConcreteMediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/TextBox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +95,20 @@
       <recent name="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (4)">
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior.mediator.demo2.Client" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavior.mediator.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="behavior.interpreter.demo3.Client" />
       <module name="design-pattern" />
@@ -190,9 +179,11 @@
       <item itemvalue="Application.Client (5)" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.Client (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (5)" />
@@ -225,7 +216,8 @@
       <workItem from="1583658791595" duration="4809000" />
       <workItem from="1583925134731" duration="7748000" />
       <workItem from="1584094532367" duration="5377000" />
-      <workItem from="1584172453499" duration="410000" />
+      <workItem from="1584172453499" duration="816000" />
+      <workItem from="1584345603821" duration="1512000" />
     </task>
     <servers />
   </component>
@@ -237,10 +229,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="788" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1583658938184" />
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1584172286008">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1584346324693">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584172286008" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584346324693" />
     <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583925820334">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -302,10 +294,10 @@
     </state>
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1584012711169" />
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.811@0.23.1440.811" timestamp="1582532156023" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1584170909163">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1584346881710">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584170909163" />
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584346881710" />
     <state width="500" height="445" key="SwitcherDM/0.23.1440.808@0.23.1440.808" timestamp="1583843479797" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584012992865">
       <screen x="0" y="0" width="1440" height="900" />
