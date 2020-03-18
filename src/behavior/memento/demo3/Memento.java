@@ -1,11 +1,6 @@
-package behavior.memento;
+package behavior.memento.demo3;
 
-/**
- * @author qianyihui
- * @date 2019-06-11
- */
-class Memento {
-
+public class Memento {
     private String state;
 
     public Memento(Originator o) {

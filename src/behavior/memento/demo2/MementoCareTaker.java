@@ -1,11 +1,7 @@
-package behavior.memento.chess2;
+package behavior.memento.demo2;
 
 import java.util.ArrayList;
 
-/**
- * @author qianyihui
- * @date 2019-06-11
- */
 public class MementoCareTaker {
     //定义一个集合来存储多个备忘录
     private ArrayList<ChessmanMemento> mementolist = new ArrayList<>();

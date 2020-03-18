@@ -1,11 +1,6 @@
-package behavior.memento.chess2;
+package behavior.memento.demo2;
 
-/**
- * @author qianyihui
- * @date 2019-06-11
- */
 public class Client {
-
     private static int index = -1;      //定义一个索引来记录当前状态所在的位置
 
     private static MementoCareTaker mc = new MementoCareTaker();

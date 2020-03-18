@@ -2,40 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b3a9e6f-ef04-40ea-ba8c-34bda452606b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/GraphicPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/ListPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/Pane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/TextPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/demo2/Window.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/mediator/中介者模式总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/memento/备忘录模式总结.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/demo1/AbstractIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/demo1/AbstractObjectList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/demo1/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/demo1/ProductList$ProductIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/iterator/demo1/ProductList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Button.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/ComboBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Component.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/ConcreteMediator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Label.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/Mediator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/SubConcreteMediator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/mediator/TextBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/ComboBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/ComboBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/Component.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/ConcreteMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/ConcreteMediator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/Label.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/Label.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/Mediator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/SubConcreteMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/SubConcreteMediator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/mediator/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/mediator/demo1/TextBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Caretaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Memento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Originator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/Chessman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/ChessmanMemento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/MementoCaretaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/Chessman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/ChessmanMemento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/MementoCareTaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/memento/Caretaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo3/Caretaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/memento/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo3/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/memento/Memento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo3/Memento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/memento/Originator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo3/Originator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess1/Chessman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo1/Chessman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess1/ChessmanMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo1/ChessmanMemento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess1/MementoCaretaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo1/MementoCaretaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess2/Chessman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo2/Chessman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess2/ChessmanMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo2/ChessmanMemento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess2/MementoCareTaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo2/MementoCareTaker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +87,7 @@
       <recent name="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.Client (3)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="behavior.mediator.demo2.Client" />
       <module name="design-pattern" />
@@ -122,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior.command.demo5.Client" />
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior.memento.demo3.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavior.command.demo5.*" />
+          <option name="PATTERN" value="behavior.memento.demo3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,19 +167,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client (4)" />
       <item itemvalue="Application.Client (5)" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.Client (2)" />
       <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Client (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (5)" />
-        <item itemvalue="Application.Client (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +209,8 @@
       <workItem from="1583925134731" duration="7748000" />
       <workItem from="1584094532367" duration="5377000" />
       <workItem from="1584172453499" duration="816000" />
-      <workItem from="1584345603821" duration="1512000" />
+      <workItem from="1584345603821" duration="2126000" />
+      <workItem from="1584497493272" duration="1673000" />
     </task>
     <servers />
   </component>
@@ -245,28 +238,28 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="120" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1584168693458" />
-    <state width="670" height="303" key="GridCell.Tab.0.bottom" timestamp="1584172441233">
+    <state width="670" height="280" key="GridCell.Tab.0.bottom" timestamp="1584411715255">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584172441233" />
+    <state width="670" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584411715255" />
     <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
     <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1584019072005" />
-    <state width="670" height="303" key="GridCell.Tab.0.center" timestamp="1584172441233">
+    <state width="670" height="280" key="GridCell.Tab.0.center" timestamp="1584411715253">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584172441233" />
+    <state width="670" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584411715253" />
     <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582279411994" />
     <state width="1396" height="280" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1584019072003" />
-    <state width="670" height="303" key="GridCell.Tab.0.left" timestamp="1584172441232">
+    <state width="670" height="280" key="GridCell.Tab.0.left" timestamp="1584411715250">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584172441232" />
+    <state width="670" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584411715250" />
     <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582279411993" />
     <state width="1396" height="280" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1584019072003" />
-    <state width="670" height="303" key="GridCell.Tab.0.right" timestamp="1584172441233">
+    <state width="670" height="280" key="GridCell.Tab.0.right" timestamp="1584411715254">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584172441233" />
+    <state width="670" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584411715254" />
     <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
     <state width="1396" height="280" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1584019072004" />
     <state width="670" height="303" key="GridCell.Tab.1.bottom" timestamp="1584172441235">
@@ -289,19 +282,19 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582513235527" />
-    <state x="450" y="200" width="540" height="524" key="StructurePopup" timestamp="1584012711169">
+    <state x="450" y="200" width="540" height="524" key="StructurePopup" timestamp="1584497565874">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="450" y="200" width="540" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1584012711169" />
+    <state x="450" y="200" width="540" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1584497565874" />
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.811@0.23.1440.811" timestamp="1582532156023" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1584346881710">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1584501075791">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584346881710" />
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584501075791" />
     <state width="500" height="445" key="SwitcherDM/0.23.1440.808@0.23.1440.808" timestamp="1583843479797" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584012992865">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584498157551">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584012992865" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584498157551" />
   </component>
 </project>

@@ -1,9 +1,5 @@
-package behavior.memento.chess1;
+package behavior.memento.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-06-11
- */
 public class Client {
     public static void main(String[] args) {
         MementoCaretaker mc = new MementoCaretaker();

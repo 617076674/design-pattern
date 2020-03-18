@@ -1,15 +1,13 @@
-package behavior.memento.chess1;
+package behavior.memento.demo2;
 
-/**
- * @author qianyihui
- * @date 2019-06-11
- */
-class ChessmanMemento {
+public class Chessman {
     private String label;
+
     private int x;
+
     private int y;
 
-    public ChessmanMemento(String label, int x, int y) {
+    public Chessman(String label, int x, int y) {
         this.label = label;
         this.x = x;
         this.y = y;
@@ -37,5 +35,17 @@ class ChessmanMemento {
 
     public void setY(int y) {
         this.y = y;
+    }
+
+    //保存状态
+    public ChessmanMemento save() {
+        return new ChessmanMemento(this.label, this.x, this.y);
+    }
+
+    //恢复状态
+    public void restore(ChessmanMemento memento) {
+        this.label = memento.getLabel();
+        this.x = memento.getX();
+        this.y = memento.getY();
     }
 }

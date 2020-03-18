@@ -1,11 +1,6 @@
-package behavior.memento;
+package behavior.memento.demo3;
 
-/**
- * @author qianyihui
- * @date 2019-06-11
- */
 public class Caretaker {
-
     private Memento memento;
 
     public Memento getMemento() {
