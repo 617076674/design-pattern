@@ -1,13 +1,8 @@
-package behavior.observer;
+package behavior.observer.demo1;
 
 import java.util.ArrayList;
 
-/**
- * @author qianyihui
- * @date 2019-06-12
- */
 public abstract class AllyControlCenter {
-
     protected String allyName;  //战队名称
 
     protected ArrayList<Observer> players = new ArrayList<>();  //定义一个集合用于存储战队成员
@@ -34,5 +29,4 @@ public abstract class AllyControlCenter {
 
     //声明抽象通知方法
     public abstract void notifyObserver(String name);
-
 }

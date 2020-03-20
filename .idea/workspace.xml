@@ -2,32 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b3a9e6f-ef04-40ea-ba8c-34bda452606b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavior/memento/备忘录模式总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/observer/demo1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/observer/demo2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/observer/demo2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/observer/demo2/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/observer/观察者模式.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Caretaker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Memento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/Originator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/Chessman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/ChessmanMemento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess1/MementoCaretaker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/Chessman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/ChessmanMemento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/memento/chess2/MementoCareTaker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/memento/Caretaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo3/Caretaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/memento/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo3/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/memento/Memento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo3/Memento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/memento/Originator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo3/Originator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess1/Chessman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo1/Chessman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess1/ChessmanMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo1/ChessmanMemento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess1/MementoCaretaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo1/MementoCaretaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess2/Chessman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo2/Chessman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess2/ChessmanMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo2/ChessmanMemento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo2/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/memento/chess2/MementoCareTaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/memento/demo2/MementoCareTaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/AllyControlCenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/ConcreteAllyControlCenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/observer/AllyControlCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/observer/demo1/AllyControlCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/observer/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/observer/ConcreteAllyControlCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/observer/demo1/ConcreteAllyControlCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/observer/demo1/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/observer/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/observer/demo1/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +77,7 @@
       <recent name="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.Client (4)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="behavior.mediator.demo2.Client" />
       <module name="design-pattern" />
@@ -127,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior.interpreter.demo2.Client" />
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior.observer.demo2.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavior.interpreter.demo2.*" />
+          <option name="PATTERN" value="behavior.observer.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,6 +144,19 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior.observer.demo1.Client" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavior.observer.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="behavior.iterator.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
@@ -167,19 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client (5)" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.Client (2)" />
       <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.Client (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Client (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +213,8 @@
       <workItem from="1584094532367" duration="5377000" />
       <workItem from="1584172453499" duration="816000" />
       <workItem from="1584345603821" duration="2126000" />
-      <workItem from="1584497493272" duration="1673000" />
+      <workItem from="1584497493272" duration="1738000" />
+      <workItem from="1584598675919" duration="2421000" />
     </task>
     <servers />
   </component>
@@ -222,10 +226,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="788" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1583658938184" />
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1584346324693">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1584690615386">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584346324693" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584690615386" />
     <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583925820334">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -238,46 +242,46 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="120" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1584168693458" />
-    <state width="670" height="280" key="GridCell.Tab.0.bottom" timestamp="1584411715255">
+    <state width="1396" height="303" key="GridCell.Tab.0.bottom" timestamp="1584690762343">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584411715255" />
+    <state width="1396" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584690762343" />
     <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
     <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1584019072005" />
-    <state width="670" height="280" key="GridCell.Tab.0.center" timestamp="1584411715253">
+    <state width="1396" height="303" key="GridCell.Tab.0.center" timestamp="1584690762342">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584411715253" />
+    <state width="1396" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584690762342" />
     <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582279411994" />
     <state width="1396" height="280" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1584019072003" />
-    <state width="670" height="280" key="GridCell.Tab.0.left" timestamp="1584411715250">
+    <state width="1396" height="303" key="GridCell.Tab.0.left" timestamp="1584690762341">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584411715250" />
+    <state width="1396" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584690762341" />
     <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582279411993" />
     <state width="1396" height="280" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1584019072003" />
-    <state width="670" height="280" key="GridCell.Tab.0.right" timestamp="1584411715254">
+    <state width="1396" height="303" key="GridCell.Tab.0.right" timestamp="1584690762343">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584411715254" />
+    <state width="1396" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584690762343" />
     <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
     <state width="1396" height="280" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1584019072004" />
-    <state width="670" height="303" key="GridCell.Tab.1.bottom" timestamp="1584172441235">
+    <state width="1396" height="303" key="GridCell.Tab.1.bottom" timestamp="1584690762345">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584172441235" />
-    <state width="670" height="303" key="GridCell.Tab.1.center" timestamp="1584172441234">
+    <state width="1396" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584690762345" />
+    <state width="1396" height="303" key="GridCell.Tab.1.center" timestamp="1584690762344">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584172441234" />
-    <state width="670" height="303" key="GridCell.Tab.1.left" timestamp="1584172441234">
+    <state width="1396" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584690762344" />
+    <state width="1396" height="303" key="GridCell.Tab.1.left" timestamp="1584690762344">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584172441234" />
-    <state width="670" height="303" key="GridCell.Tab.1.right" timestamp="1584172441234">
+    <state width="1396" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584690762344" />
+    <state width="1396" height="303" key="GridCell.Tab.1.right" timestamp="1584690762345">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="670" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584172441234" />
+    <state width="1396" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584690762345" />
     <state x="208" y="31" key="SettingsEditor" timestamp="1582513235527">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -287,14 +291,26 @@
     </state>
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1584497565874" />
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.811@0.23.1440.811" timestamp="1582532156023" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1584501075791">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1584690771108">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584501075791" />
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584690748252" />
     <state width="500" height="445" key="SwitcherDM/0.23.1440.808@0.23.1440.808" timestamp="1583843479797" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584498157551">
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.812@0.23.1440.812" timestamp="1584690771108" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584686610440">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584498157551" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584686610440" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/Observable.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

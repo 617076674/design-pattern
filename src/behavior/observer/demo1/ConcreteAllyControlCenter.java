@@ -1,9 +1,5 @@
-package behavior.observer;
+package behavior.observer.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-06-12
- */
 public class ConcreteAllyControlCenter extends AllyControlCenter {
     public ConcreteAllyControlCenter(String allyName) {
         System.out.println(allyName + "战队组建成功！");

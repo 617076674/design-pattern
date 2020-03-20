@@ -1,11 +1,6 @@
-package behavior.observer;
+package behavior.observer.demo1;
 
-/**
- * @author qianyihui
- * @date 2019-06-12
- */
 public class Player implements Observer {
-
     private String name;
 
     public Player(String name) {
