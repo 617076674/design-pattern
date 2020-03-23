@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<config>
+    <className>behavior.template.demo1.CurrentAccount</className>
+</config>

@@ -2,22 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b3a9e6f-ef04-40ea-ba8c-34bda452606b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavior/observer/demo1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/observer/demo2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/observer/demo2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/observer/demo2/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/observer/观察者模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/FinalState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/PrimaryState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/ProfessionalState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/RoleState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/SecondaryState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/state/状态模式总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/AirPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/FeiJi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/FlyWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/Harrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/Helicopter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/XMLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/策略模式总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/template/模板方法模式总结.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/AllyControlCenter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/ConcreteAllyControlCenter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/Observer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/observer/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/observer/AllyControlCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/observer/demo1/AllyControlCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/observer/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/observer/ConcreteAllyControlCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/observer/demo1/ConcreteAllyControlCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/observer/demo1/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/observer/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/observer/demo1/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/AccountState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/NormalState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/OverdraftState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/RestrictedState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/LargerState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/LargestState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/NormalState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/Screen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/ScreenState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/OffState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/OnState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/SwitchState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/ChildrenDicount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/Discount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/MovieTicket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/StudentDiscount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/VIPDiscount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/CurrentAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/SavingAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo1/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/AccountState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo1/AccountState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/NormalState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo1/NormalState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/OverdraftState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo1/OverdraftState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/RestrictedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo1/RestrictedState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/changebycircumstance/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo3/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/changebycircumstance/LargerState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo3/LargerState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/changebycircumstance/LargestState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo3/LargestState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/changebycircumstance/NormalState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo3/NormalState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/changebycircumstance/Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo3/Screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/changebycircumstance/ScreenState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo3/ScreenState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/sharedstate/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/sharedstate/OffState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo2/OffState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/sharedstate/OnState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo2/OnState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/sharedstate/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo2/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/state/sharedstate/SwitchState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo2/SwitchState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/ChildrenDicount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/ChildrenDicount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/MovieTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/MovieTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/StudentDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/StudentDiscount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/VIPDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/VIPDiscount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/XMLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/XMLUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/template/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo1/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/template/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/template/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo1/CurrentAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/template/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo1/SavingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/template/XMLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo1/XMLUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/template/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo1/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/template/hook/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/template/hook/DataViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo2/DataViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/template/hook/XMLDataViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo2/XMLDataViewer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +117,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/behavior/strategy/demo2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -56,34 +125,34 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/behavior/template/demo1" />
+      <recent name="$PROJECT_DIR$/src/behavior/strategy/demo1" />
       <recent name="$PROJECT_DIR$/src/behavior/command/demo1" />
       <recent name="$PROJECT_DIR$/src/structure/proxy/demo1" />
       <recent name="$PROJECT_DIR$/src/structure/bridge/demo1" />
-      <recent name="$PROJECT_DIR$/src/structure/adapter/demo2" />
-      <recent name="$PROJECT_DIR$/src/creational/builder/demo1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="behavior.strategy.demo2" />
       <recent name="behavior.interpreter.demo1" />
       <recent name="behavior.responsibility.demo2" />
       <recent name="structure.flyweight.demo2" />
       <recent name="structure.bridge.demo2" />
-      <recent name="structure.adapter.demo2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/behavior/strategy/demo2" />
       <recent name="$PROJECT_DIR$/src/structure/bridge/demo2" />
       <recent name="$PROJECT_DIR$/src/structure/adapter" />
       <recent name="$PROJECT_DIR$/src/structure/adapter/demo1" />
       <recent name="$PROJECT_DIR$/src/creational/builder/demo2" />
-      <recent name="$PROJECT_DIR$/src/creational/prototype/demo2/deepclone" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Client (4)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior.mediator.demo2.Client" />
+      <option name="MAIN_CLASS_NAME" value="behavior.strategy.demo1.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavior.mediator.demo2.*" />
+          <option name="PATTERN" value="behavior.strategy.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,11 +161,11 @@
       </method>
     </configuration>
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior.interpreter.demo3.Client" />
+      <option name="MAIN_CLASS_NAME" value="behavior.state.demo4.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavior.interpreter.demo3.*" />
+          <option name="PATTERN" value="behavior.state.demo4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +174,11 @@
       </method>
     </configuration>
     <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior.memento.demo3.Client" />
+      <option name="MAIN_CLASS_NAME" value="behavior.strategy.demo2.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavior.memento.demo3.*" />
+          <option name="PATTERN" value="behavior.strategy.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +187,11 @@
       </method>
     </configuration>
     <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior.observer.demo2.Client" />
+      <option name="MAIN_CLASS_NAME" value="behavior.template.demo1.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavior.observer.demo2.*" />
+          <option name="PATTERN" value="behavior.template.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +200,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior.interpreter.demo1.Client" />
+      <option name="MAIN_CLASS_NAME" value="behavior.state.demo2.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavior.interpreter.demo1.*" />
+          <option name="PATTERN" value="behavior.state.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,10 +248,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Client (4)" />
-        <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +283,10 @@
       <workItem from="1584172453499" duration="816000" />
       <workItem from="1584345603821" duration="2126000" />
       <workItem from="1584497493272" duration="1738000" />
-      <workItem from="1584598675919" duration="2421000" />
+      <workItem from="1584598675919" duration="2456000" />
+      <workItem from="1584776220768" duration="2491000" />
+      <workItem from="1584840053670" duration="1174000" />
+      <workItem from="1584948516889" duration="607000" />
     </task>
     <servers />
   </component>
@@ -226,10 +298,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="788" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1583658938184" />
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1584690615386">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1584840518355">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584690615386" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584840518355" />
     <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583925820334">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -242,46 +314,46 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="120" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1584168693458" />
-    <state width="1396" height="303" key="GridCell.Tab.0.bottom" timestamp="1584690762343">
+    <state width="648" height="280" key="GridCell.Tab.0.bottom" timestamp="1584841230618">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584690762343" />
+    <state width="648" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584841230618" />
     <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
     <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1584019072005" />
-    <state width="1396" height="303" key="GridCell.Tab.0.center" timestamp="1584690762342">
+    <state width="648" height="280" key="GridCell.Tab.0.center" timestamp="1584841230617">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584690762342" />
+    <state width="648" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584841230617" />
     <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582279411994" />
     <state width="1396" height="280" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1584019072003" />
-    <state width="1396" height="303" key="GridCell.Tab.0.left" timestamp="1584690762341">
+    <state width="648" height="280" key="GridCell.Tab.0.left" timestamp="1584841230616">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584690762341" />
+    <state width="648" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584841230616" />
     <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582279411993" />
     <state width="1396" height="280" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1584019072003" />
-    <state width="1396" height="303" key="GridCell.Tab.0.right" timestamp="1584690762343">
+    <state width="648" height="280" key="GridCell.Tab.0.right" timestamp="1584841230617">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584690762343" />
+    <state width="648" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584841230617" />
     <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
     <state width="1396" height="280" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1584019072004" />
-    <state width="1396" height="303" key="GridCell.Tab.1.bottom" timestamp="1584690762345">
+    <state width="1396" height="303" key="GridCell.Tab.1.bottom" timestamp="1584691377173">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584690762345" />
-    <state width="1396" height="303" key="GridCell.Tab.1.center" timestamp="1584690762344">
+    <state width="1396" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584691377173" />
+    <state width="1396" height="303" key="GridCell.Tab.1.center" timestamp="1584691377172">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584690762344" />
-    <state width="1396" height="303" key="GridCell.Tab.1.left" timestamp="1584690762344">
+    <state width="1396" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584691377172" />
+    <state width="1396" height="303" key="GridCell.Tab.1.left" timestamp="1584691377172">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584690762344" />
-    <state width="1396" height="303" key="GridCell.Tab.1.right" timestamp="1584690762345">
+    <state width="1396" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584691377172" />
+    <state width="1396" height="303" key="GridCell.Tab.1.right" timestamp="1584691377173">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584690762345" />
+    <state width="1396" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584691377173" />
     <state x="208" y="31" key="SettingsEditor" timestamp="1582513235527">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -291,12 +363,16 @@
     </state>
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1584497565874" />
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.811@0.23.1440.811" timestamp="1582532156023" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1584690771108">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1584840626692">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584690748252" />
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584840626692" />
     <state width="500" height="445" key="SwitcherDM/0.23.1440.808@0.23.1440.808" timestamp="1583843479797" />
     <state width="500" height="445" key="SwitcherDM/0.23.1440.812@0.23.1440.812" timestamp="1584690771108" />
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584778218793">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1584778218793" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584686610440">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
