@@ -2,91 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b3a9e6f-ef04-40ea-ba8c-34bda452606b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/FinalState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/PrimaryState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/ProfessionalState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/RoleState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/state/demo4/SecondaryState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/state/状态模式总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/AirPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/FeiJi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/FlyWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/Harrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/Helicopter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/XMLUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/demo2/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/strategy/策略模式总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/template/模板方法模式总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/ArticleChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/Checker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/GradeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/XMLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/访问者模式总结.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/AccountState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/NormalState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/OverdraftState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/RestrictedState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/LargerState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/LargestState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/NormalState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/Screen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/changebycircumstance/ScreenState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/OffState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/OnState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/state/sharedstate/SwitchState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/ChildrenDicount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/Discount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/MovieTicket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/StudentDiscount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/VIPDiscount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/XMLUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/strategy/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/CurrentAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/SavingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/XMLUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo1/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/AccountState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo1/AccountState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/NormalState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo1/NormalState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/OverdraftState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo1/OverdraftState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/RestrictedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo1/RestrictedState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/changebycircumstance/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo3/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/changebycircumstance/LargerState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo3/LargerState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/changebycircumstance/LargestState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo3/LargestState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/changebycircumstance/NormalState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo3/NormalState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/changebycircumstance/Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo3/Screen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/changebycircumstance/ScreenState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo3/ScreenState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/sharedstate/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo2/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/sharedstate/OffState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo2/OffState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/sharedstate/OnState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo2/OnState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/sharedstate/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo2/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/state/sharedstate/SwitchState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/state/demo2/SwitchState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/ChildrenDicount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/ChildrenDicount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/Discount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/MovieTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/MovieTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/StudentDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/StudentDiscount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/VIPDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/VIPDiscount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/XMLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/XMLUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/strategy/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/strategy/demo1/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/template/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo1/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/template/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/template/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo1/CurrentAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/template/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo1/SavingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/template/XMLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo1/XMLUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/template/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo1/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/template/hook/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo2/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/template/hook/DataViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo2/DataViewer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/template/hook/XMLDataViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/template/demo2/XMLDataViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/hook/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/hook/DataViewer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/hook/XMLDataViewer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/EmployeeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/FADepartment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/FulltimeEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/HRDepartment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/ParttimeEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/EmployeeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/EmployeeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/FADepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/FADepartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/FulltimeEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/FulltimeEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/HRDepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/HRDepartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/ParttimeEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/ParttimeEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/XMLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/XMLUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/config.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,13 +66,27 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/behavior/strategy/demo2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/behavior/visitor/demo2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/behavior/visitor/demo2" />
+      <recent name="$PROJECT_DIR$/src/behavior/visitor/demo1" />
+      <recent name="$PROJECT_DIR$/src/behavior/strategy/demo2" />
+      <recent name="$PROJECT_DIR$/src/structure/bridge/demo2" />
+      <recent name="$PROJECT_DIR$/src/structure/adapter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="behavior.visitor.demo2" />
+      <recent name="behavior.strategy.demo2" />
+      <recent name="behavior.interpreter.demo1" />
+      <recent name="behavior.responsibility.demo2" />
+      <recent name="structure.flyweight.demo2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/behavior/template/demo1" />
       <recent name="$PROJECT_DIR$/src/behavior/strategy/demo1" />
@@ -131,41 +94,14 @@
       <recent name="$PROJECT_DIR$/src/structure/proxy/demo1" />
       <recent name="$PROJECT_DIR$/src/structure/bridge/demo1" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="behavior.strategy.demo2" />
-      <recent name="behavior.interpreter.demo1" />
-      <recent name="behavior.responsibility.demo2" />
-      <recent name="structure.flyweight.demo2" />
-      <recent name="structure.bridge.demo2" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/behavior/strategy/demo2" />
-      <recent name="$PROJECT_DIR$/src/structure/bridge/demo2" />
-      <recent name="$PROJECT_DIR$/src/structure/adapter" />
-      <recent name="$PROJECT_DIR$/src/structure/adapter/demo1" />
-      <recent name="$PROJECT_DIR$/src/creational/builder/demo2" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Client (4)">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="behavior.strategy.demo1.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="behavior.strategy.demo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior.state.demo4.Client" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="behavior.state.demo4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +135,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavior.state.demo2.Client" />
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior.visitor.demo1.Client" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavior.state.demo2.*" />
+          <option name="PATTERN" value="behavior.visitor.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior.visitor.demo2.Client" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavior.visitor.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,19 +188,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.Client (2)" />
       <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Client (3)" />
       <item itemvalue="Application.Client (4)" />
+      <item itemvalue="Application.Client (5)" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +235,9 @@
       <workItem from="1584598675919" duration="2456000" />
       <workItem from="1584776220768" duration="2491000" />
       <workItem from="1584840053670" duration="1174000" />
-      <workItem from="1584948516889" duration="607000" />
+      <workItem from="1584948516889" duration="648000" />
+      <workItem from="1584950413112" duration="124000" />
+      <workItem from="1584950662356" duration="2060000" />
     </task>
     <servers />
   </component>
@@ -298,10 +249,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="788" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1583658938184" />
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1584840518355">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1585031188115">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584840518355" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585031188115" />
     <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583925820334">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -314,28 +265,28 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="120" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1584168693458" />
-    <state width="648" height="280" key="GridCell.Tab.0.bottom" timestamp="1584841230618">
+    <state width="1396" height="280" key="GridCell.Tab.0.bottom" timestamp="1585031411797">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="648" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584841230618" />
+    <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585031411797" />
     <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
     <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1584019072005" />
-    <state width="648" height="280" key="GridCell.Tab.0.center" timestamp="1584841230617">
+    <state width="1396" height="280" key="GridCell.Tab.0.center" timestamp="1585031411791">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="648" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584841230617" />
+    <state width="1396" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585031411791" />
     <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582279411994" />
     <state width="1396" height="280" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1584019072003" />
-    <state width="648" height="280" key="GridCell.Tab.0.left" timestamp="1584841230616">
+    <state width="1396" height="280" key="GridCell.Tab.0.left" timestamp="1585031411788">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="648" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584841230616" />
+    <state width="1396" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585031411788" />
     <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582279411993" />
     <state width="1396" height="280" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1584019072003" />
-    <state width="648" height="280" key="GridCell.Tab.0.right" timestamp="1584841230617">
+    <state width="1396" height="280" key="GridCell.Tab.0.right" timestamp="1585031411795">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="648" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584841230617" />
+    <state width="1396" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585031411795" />
     <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
     <state width="1396" height="280" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1584019072004" />
     <state width="1396" height="303" key="GridCell.Tab.1.bottom" timestamp="1584691377173">
