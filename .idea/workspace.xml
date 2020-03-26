@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b3a9e6f-ef04-40ea-ba8c-34bda452606b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/ArticleChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/Checker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/GradeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/XMLUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/demo2/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior/visitor/访问者模式总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/七大设计原则.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/hook/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/hook/DataViewer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/template/hook/XMLDataViewer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/Department.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/EmployeeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/FADepartment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/FulltimeEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/HRDepartment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/ParttimeEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/XMLUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-pattern/behavior/visitor/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/EmployeeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/EmployeeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/FADepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/FADepartment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/FulltimeEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/FulltimeEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/HRDepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/HRDepartment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/ParttimeEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/ParttimeEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/XMLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/XMLUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavior/visitor/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavior/visitor/demo1/config.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +205,9 @@
       <workItem from="1584840053670" duration="1174000" />
       <workItem from="1584948516889" duration="648000" />
       <workItem from="1584950413112" duration="124000" />
-      <workItem from="1584950662356" duration="2060000" />
+      <workItem from="1584950662356" duration="2100000" />
+      <workItem from="1585032630310" duration="1029000" />
+      <workItem from="1585184415841" duration="956000" />
     </task>
     <servers />
   </component>
@@ -265,28 +235,28 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="120" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1584168693458" />
-    <state width="1396" height="280" key="GridCell.Tab.0.bottom" timestamp="1585031411797">
+    <state width="570" height="280" key="GridCell.Tab.0.bottom" timestamp="1585031936679">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585031411797" />
+    <state width="570" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585031936679" />
     <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
     <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1584019072005" />
-    <state width="1396" height="280" key="GridCell.Tab.0.center" timestamp="1585031411791">
+    <state width="570" height="280" key="GridCell.Tab.0.center" timestamp="1585031936677">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585031411791" />
+    <state width="570" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585031936677" />
     <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582279411994" />
     <state width="1396" height="280" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1584019072003" />
-    <state width="1396" height="280" key="GridCell.Tab.0.left" timestamp="1585031411788">
+    <state width="570" height="280" key="GridCell.Tab.0.left" timestamp="1585031936676">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585031411788" />
+    <state width="570" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585031936676" />
     <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582279411993" />
     <state width="1396" height="280" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1584019072003" />
-    <state width="1396" height="280" key="GridCell.Tab.0.right" timestamp="1585031411795">
+    <state width="570" height="280" key="GridCell.Tab.0.right" timestamp="1585031936678">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585031411795" />
+    <state width="570" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585031936678" />
     <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582279411995" />
     <state width="1396" height="280" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1584019072004" />
     <state width="1396" height="303" key="GridCell.Tab.1.bottom" timestamp="1584691377173">
@@ -309,10 +279,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582513235527" />
-    <state x="450" y="200" width="540" height="524" key="StructurePopup" timestamp="1584497565874">
+    <state x="450" y="200" width="540" height="524" key="StructurePopup" timestamp="1585185195704">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="450" y="200" width="540" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1584497565874" />
+    <state x="450" y="200" width="540" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1585185195704" />
     <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.811@0.23.1440.811" timestamp="1582532156023" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1584840626692">
       <screen x="0" y="0" width="1440" height="900" />
@@ -324,10 +294,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1584778218793" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584686610440">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1585185191705">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584686610440" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1585185191705" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
